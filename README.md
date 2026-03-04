@@ -28,6 +28,11 @@ Built a regression-based machine learning model to predict air quality index usi
 ### 🔹 Pharmaceutical Market Analysis
 Performed Exploratory Data Analysis using Python & Jupyter Notebook.
 
+### 🔹 Deepfake Prediction App
+Developed a deep learning model using transfer learning to classify images as real or fake.
+
+### 🔹 Subscription Churn and Revenue Analyis
+Interactive Power BI dashboard analyzing customer churn, revenue trends, and high-risk customer segments using a 700K+ record dataset.
 
 ---
 
