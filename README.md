@@ -15,6 +15,8 @@
 - Machine Learning
 - Data Visualization
 - Regression Models
+- Classification Models
+- Clustering
 
 ---
 
