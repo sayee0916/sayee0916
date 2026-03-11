@@ -1,7 +1,7 @@
 # Hi, I'm Sayali 👋
 
 🎯 Aspiring Data Analyst  
-📊 Passionate about Data Analytics & Data Science 
+📊 Passionate about Data Analytics & Data Science
 📍 Pune, India  
 
 ---
